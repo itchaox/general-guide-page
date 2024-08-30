@@ -1,0 +1,12 @@
+{
+  "url": "https://lark-base-team.github.io/js-sdk-docs/zh/api/bridge#getlanguage",
+
+  "zhPlan": "翻译",
+  "zhShortcut": "翻译",
+
+  "enPlan": "translate",
+  "enShortcut": "translate",
+
+  "jaPlan": "翻訳する",
+  "jaShortcut": "翻訳する"
+}
